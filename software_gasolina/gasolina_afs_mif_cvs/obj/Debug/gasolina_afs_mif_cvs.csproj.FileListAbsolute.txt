@@ -1,0 +1,62 @@
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe.config
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.pdb
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.exe
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.pdb
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.frm_gasolina.resources
+C:\Users\Aluno\Desktop\Aula 16.04\gasolina_afs_mif_cvs\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Form2.resources
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe.config
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.exe
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.pdb
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.pdb
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csprojResolveAssemblyReference.cache
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.frm_gasolina.resources
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Form2.resources
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Properties.Resources.resources
+G:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.GenerateResource.Cache
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe.config
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.exe
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.pdb
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.pdb
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csprojResolveAssemblyReference.cache
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.frm_gasolina.resources
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Form2.resources
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Properties.Resources.resources
+H:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.GenerateResource.Cache
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe.config
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.exe
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.pdb
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.pdb
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csprojResolveAssemblyReference.cache
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.frm_gasolina.resources
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Form2.resources
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Properties.Resources.resources
+I:\C#\Aula 16.04\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.GenerateResource.Cache
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe.config
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.pdb
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csprojAssemblyReference.cache
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.frm_gasolina.resources
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Form2.resources
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Properties.Resources.resources
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.GenerateResource.cache
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.CoreCompileInputs.cache
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.exe
+C:\Users\carlos.santos\Desktop\software_gasolina\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.pdb
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe.config
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.exe
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\bin\Debug\gasolina_afs_mif_cvs.pdb
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csprojAssemblyReference.cache
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.frm_gasolina.resources
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Form2.resources
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.Properties.Resources.resources
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.GenerateResource.cache
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.csproj.CoreCompileInputs.cache
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.exe
+C:\Users\carlos.santos\Desktop\Projetos para o GitHub\Software Posto de Gasolina com C#\gasolina_afs_mif_cvs\obj\Debug\gasolina_afs_mif_cvs.pdb
